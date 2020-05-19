@@ -43,3 +43,19 @@ tienda online
     - En covid primero cuiden
 ## cambios en Emdicel v0.1
     -Los Cambios som estooooo
+## Esto es la tarea profesor Doc v1
+    |Funcionales                       |No Funcionales         |
+    |________________________________________________________________________________________________________
+    | Registo de clientes              | Los clientes no seprodran registrar mas de una ves con el mismo correo 
+    -------------------------------------------------------------------------------------------------------------
+    | Registro de ventas de productos  | Los productos deveran ser vendidos solo asta el stok permitido
+    ----------------------------------------------------------------------------------------------------------------
+    | Mi sítio web permitira           | Los promociones seran enviados solo a personasque esten registrados o suscritos
+      suscribciones para promociones   
+      recientes 
+      -------------------------------------------------------------------------------------------------------------------
+    |Nuestro sistema permitara en      | Nuestro sistemas Registrara el cambio de direccion solo a personas ya logeadas  
+    cambio de direccion constante 
+    --------------------------------------------------------------------------------------------------------------------
+## Gracias profesor
+    -lizandro taipe quinto
