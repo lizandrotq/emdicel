@@ -37,3 +37,7 @@ tienda online
     | jugar   | minecraf  | freefire |
     |futbol   | voley     |comer     |
     | jugar   | minecraf  | freefire |
+## Esto es el segundo cambio de hoy
+    - lizandro el pinpollo
+    - Virjen astas la muerte bb
+    - En covid primero cuiden
