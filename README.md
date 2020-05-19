@@ -27,3 +27,11 @@ tienda online
     |futbol   | voley     |comer     |
     | jugar   | minecraf  | freefire |
     |futbol   | voley     |comer     |
+## Como desplegar la app
+ - Para desplegar la app se realiza lo seguiente
+ - Hola soy el mondo y hoy termira
+     |lunes    |martes     |miercoles |
+    |________ |__________ |_________ |
+    | jugar   | minecraf  | freefire |
+    |futbol   | voley     |comer     |
+    | jugar   | minecraf  | freefire |
